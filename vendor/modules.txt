@@ -1,0 +1,24 @@
+# github.com/go-logr/logr v0.2.0
+github.com/go-logr/logr
+# github.com/go-sql-driver/mysql v1.5.0
+## explicit
+github.com/go-sql-driver/mysql
+# github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b
+## explicit
+github.com/golang/glog
+# github.com/streadway/amqp v1.0.0
+## explicit
+github.com/streadway/amqp
+# golang.org/x/time v0.0.0-20201208040808-7e3f01d25324
+## explicit
+golang.org/x/time/rate
+# k8s.io/apimachinery v0.20.2
+## explicit
+k8s.io/apimachinery/pkg/util/clock
+k8s.io/apimachinery/pkg/util/runtime
+k8s.io/apimachinery/pkg/util/wait
+# k8s.io/client-go v11.0.0+incompatible
+## explicit
+k8s.io/client-go/util/workqueue
+# k8s.io/klog/v2 v2.4.0
+k8s.io/klog/v2
